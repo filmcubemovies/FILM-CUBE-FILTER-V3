@@ -2,7 +2,7 @@
   <img src="assets/AJAX.png" alt="Ajax Techz">
 </p>
 <h1 align="center">
-  <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b>FILM CUBE FILTER V3</b>
 </h1>
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/filmcube/FILM-CUBE-FILTER-V3">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
