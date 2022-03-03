@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011) || [𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦](https://www.instagram.com/_strange_friend_/)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/MWUpdatez)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [PRAJI](https://t.me/praji12) || [group](https://t.me/+mVeXKDORn6thMGY9)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [FILM CUBE MOVIES](https://t.me/+lthJys0pMMY4YWE1)
